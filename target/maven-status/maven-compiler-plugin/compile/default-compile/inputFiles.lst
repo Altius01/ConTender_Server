@@ -1,0 +1,9 @@
+/home/altius01/projects/Server/src/main/java/msgService/MsgToDB.java
+/home/altius01/projects/Server/src/main/java/msgService/MsgManageInetMsg.java
+/home/altius01/projects/Server/src/main/java/dao/UserAuthDao.java
+/home/altius01/projects/Server/src/main/java/inetConnection/Server.java
+/home/altius01/projects/Server/src/main/java/dao/UserAuthDaoImpl.java
+/home/altius01/projects/Server/src/main/java/core/Core.java
+/home/altius01/projects/Server/src/main/java/services/DBService.java
+/home/altius01/projects/Server/src/main/java/msgService/MsgToCore.java
+/home/altius01/projects/Server/src/main/java/entities/UserAuth.java
